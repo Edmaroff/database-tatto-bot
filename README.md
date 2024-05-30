@@ -31,5 +31,5 @@
 ## Используемые технологии
 - SQLAlchemy
 - Asyncio
-
+- PostgreSQL
 
